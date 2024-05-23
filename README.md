@@ -1,10 +1,12 @@
 The R script included in this repository was developed for the publication:
-Centralized or onsite testing? Examining the costs of water quality monitoring in rural Africa (in review)
+
+Centralized or onsite testing? Examining the costs of water quality monitoring in rural Africa (currently in review)
 
 It compares the costs of four approaches to microbial water quality testing, 
 each representing a different level of centralization (please see the publication for details).
 
 Using the accompanying Excel spreadsheet, input parameter assumptions can be changed to reflect different scenarios and settings.
+The R script imports the input spreadsheet and exports an output spreadsheet and figure providing summarized results comparing the four microbial testing approaches.
 The original assumptions in the spreadsheet correspond to the generalized analysis from the publication,
 simulating a range of possible conditions in sub-Saharan Africa.
 
